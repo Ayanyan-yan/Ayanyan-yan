@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ayanyan-yan/Ayanyan-yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ayan!
 
-Here are some ideas to get you started:
+**一名普通大学生 · 编程爱好者 · Tianjin · Class of 2029**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+**🛠️ Tech Stack**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+<br />
+
+*“Talk is cheap. Show me the code.”*
+
+</div>
