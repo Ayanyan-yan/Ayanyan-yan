@@ -16,3 +16,6 @@
 *“Talk is cheap. Show me the code.”*
 
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayanyan-yan&show_icons=true&theme=radium&hide_border=true" alt="Ayan's GitHub stats" />
+</div>
