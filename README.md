@@ -13,6 +13,6 @@
 
 <br />
 
-*“Talk is cheap. Show me the code.”*
+*“Talk is cheap. Show me the code.”*\n
 *有事没事，开源一下*
 
